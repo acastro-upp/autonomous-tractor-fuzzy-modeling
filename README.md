@@ -60,7 +60,7 @@ All data is located in the `data/` folder in both `.csv` and `.xlsx` formats:
 * **Juan Manuel Xicoténcatl-Pérez** [1]
 * **Salatiel Garcia Nava** [1]
 * **Jorge A. Ruiz-Vanoye** [1]
-* **Sébastien Paris** [2]
+* **Sébastien PARIS** [2]
 
 ---
 
