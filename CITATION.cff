@@ -22,7 +22,7 @@ authors:
   - family-names: "Paris"
     given-names: "Sébastien"
     affiliation: "University of Toulon, Aix Marseille University, CNRS, LIS, France"
-title: "Kinematic Simulation Dataset of an Autonomous Pruning Tractor Robot for Takagi-Sugeno Fuzzy Modeling"[cite: 1]
+title: "Kinematic Simulation Dataset of an Autonomous Pruning Tractor Robot for Takagi-Sugeno Fuzzy Modeling"
 version: 1.0.0
-date-released: 2026-07-16[cite: 1]
+date-released: 2026-07-16
 url: "https://github.com/acastro-upp/autonomous-tractor-fuzzy-modeling"
