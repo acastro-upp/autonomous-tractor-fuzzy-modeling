@@ -1,21 +1,28 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
-  - family-names: "Castro-Romero"
+  - family-names: "Castro Romero"
     given-names: "Angel de Jesus"
+    affiliation: "Universidad Politécnica de Pachuca, Laboratorio Nacional en Vehículos Autónomos y Exoesqueletos, México"
   - family-names: "Ramos-Fernández"
     given-names: "Julio Cesar"
-  - family-names: "Márquez-Vera"
+    affiliation: "Universidad Politécnica de Pachuca, Laboratorio Nacional en Vehículos Autónomos y Exoesqueletos, México"
+  - family-names: "Márquez Vera"
     given-names: "Marco Antonio"
+    affiliation: "Universidad Politécnica de Pachuca, Laboratorio Nacional en Vehículos Autónomos y Exoesqueletos, México"
   - family-names: "Xicoténcatl-Pérez"
     given-names: "Juan Manuel"
+    affiliation: "Universidad Politécnica de Pachuca, Laboratorio Nacional en Vehículos Autónomos y Exoesqueletos, México"
   - family-names: "Garcia Nava"
     given-names: "Salatiel"
+    affiliation: "Universidad Politécnica de Pachuca, Laboratorio Nacional en Vehículos Autónomos y Exoesqueletos, México"
   - family-names: "Ruiz-Vanoye"
     given-names: "Jorge A."
+    affiliation: "Universidad Politécnica de Pachuca, Laboratorio Nacional en Vehículos Autónomos y Exoesqueletos, México"
   - family-names: "Paris"
     given-names: "Sébastien"
-title: "Kinematic Simulation Dataset of an Autonomous Pruning Tractor Robot for Takagi-Sugeno Fuzzy Modeling"
+    affiliation: "University of Toulon, Aix Marseille University, CNRS, LIS, France"
+title: "Kinematic Simulation Dataset of an Autonomous Pruning Tractor Robot for Takagi-Sugeno Fuzzy Modeling"[cite: 1]
 version: 1.0.0
-date-released: 2026-07-16
+date-released: 2026-07-16[cite: 1]
 url: "https://github.com/acastro-upp/autonomous-tractor-fuzzy-modeling"
